@@ -1,4 +1,4 @@
-## Data Cleansing and Dashboard
+## Data Exploration with SQL
 
 
 # 📌 Project Title - [Data Analiyst Covid]
