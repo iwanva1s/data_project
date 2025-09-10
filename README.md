@@ -16,5 +16,5 @@ I am using this project as a portfolio to apply for jobs.
 - Excel, PowerBI
 
 ## 📫 Kontak
-- [LinkedIn]()
+- [LinkedIn](www.linkedin.com/in/yehezkiel-glenlomo)
 - Email: yehezkielm13@gmail.com
